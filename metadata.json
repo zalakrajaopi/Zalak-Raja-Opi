@@ -1,0 +1,7 @@
+{
+  "name": "Quit",
+  "description": "A modern, supportive personal recovery app to help you build self-control, healthy routines, and take back control of your life.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
